@@ -1,7 +1,19 @@
 {
-  "name": "help-me-tape",
+  "name": "cra-template-tailwind-eslint-prettier",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "author": "Veljko Sekulić <veljko.sekulic1998@gmail.com",
+  "main": "template.json",
+  "description": "A quick start Create React App template with Tailwind, TypeScript, and custom ESlint and Prettier configurations",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v-sekulic/cra-template-typescript-tailwind-prettier-eslint",
+    "directory": "/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
